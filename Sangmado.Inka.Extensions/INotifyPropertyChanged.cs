@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RockStone.Inka.Extensions
+namespace Sangmado.Inka.Extensions
 {
     public delegate void PropertyChangedEventHandler(object sender, PropertyChangedEventArgs e);
 

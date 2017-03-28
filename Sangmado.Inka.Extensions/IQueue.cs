@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace RockStone.Inka.Extensions
+namespace Sangmado.Inka.Extensions
 {
     public interface IQueue<T> : IEnumerable<T>, IReadOnlyCollection<T>
     {

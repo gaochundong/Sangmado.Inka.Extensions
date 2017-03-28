@@ -1,6 +1,6 @@
 ﻿using System.Collections.Concurrent;
 
-namespace RockStone.Inka.Extensions
+namespace Sangmado.Inka.Extensions
 {
     public static class ConcurrentDictionaryExtensions
     {

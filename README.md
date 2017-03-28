@@ -1,1 +1,1 @@
-# RockStone.Inka.Extensions
+# Sangmado.Inka.Extensions

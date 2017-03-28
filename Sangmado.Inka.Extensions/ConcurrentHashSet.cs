@@ -4,7 +4,7 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace RockStone.Inka.Extensions
+namespace Sangmado.Inka.Extensions
 {
     public class ConcurrentHashSet<T> : ICollection<T>, IEnumerable<T>, IEnumerable
     {

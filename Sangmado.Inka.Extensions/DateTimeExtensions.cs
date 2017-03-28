@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Globalization;
 using System.Xml.Serialization;
 
-namespace RockStone.Inka.Extensions
+namespace Sangmado.Inka.Extensions
 {
     public static class DateTimeExtensions
     {

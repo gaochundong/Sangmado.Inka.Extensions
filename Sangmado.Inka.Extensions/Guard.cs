@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RockStone.Inka.Extensions
+namespace Sangmado.Inka.Extensions
 {
     public static class Guard
     {
